@@ -353,7 +353,7 @@ export default App;
 mkdir src/components
 ```
 
-src/componentsModal.js:
+src/components/Modal.js:
 ```js
 import React, { Component } from "react";
 import {
