@@ -1,6 +1,6 @@
 # django-todo-react
 
-
+![img6](./images/TodoList–Django.png)
 ## Installation
 
 ```
@@ -815,11 +815,11 @@ class App extends Component {
 export default App;
 ```
 
+## Lancement 
 ```
 python manage.py runserver
 ```
 
-```
 
 ```
 npm start
